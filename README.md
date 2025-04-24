@@ -6,7 +6,7 @@ Este projeto é uma aplicação full stack que utiliza **FastAPI** no backend co
 
 ## 📁 Estrutura do Projeto
 ```
-fastapi_react_crud/
+t1.2_fabricio/
 ├── backend/
 │   ├── app/
 │   │   ├── __init__.py
