@@ -1,4 +1,5 @@
-# FastAPI React CRUD
+# 2° Trabalho - Banco de Dados Relacionais
+## Prof. Fabricio Dias
 
 Este projeto é uma aplicação full stack que utiliza **FastAPI** no backend com banco de dados **MySQL** e **React** no frontend. O sistema realiza operações de CRUD (Create, Read, Update, Delete) de forma integrada.
 
